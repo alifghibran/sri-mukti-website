@@ -1,0 +1,357 @@
+body {
+  margin: 0 auto;
+  width: 100%;
+  font-family: Roboto;
+  padding-bottom: 5%;
+}
+#nav   {
+  width: 100%;
+  margin-top: 2%;
+}
+.yay {
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.17;
+  letter-spacing: 1.1px;
+  text-align: left;
+  color: #707070;
+  margin-top: 1.3%;
+  margin-left: 1.5%;
+  position: absolute;
+}
+.logo {
+  margin-left: 6%;
+  width: 55px;
+  height: 55px;
+}
+#nav a {
+  float: right;
+  text-decoration: none;
+  padding-left: 50px;
+  padding-top: 1.3%;
+}
+.sekul {
+  margin-right: 6%;
+}
+.home {
+  font-family: Roboto;
+  font-size: 12px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.2;
+  letter-spacing: 0.9px;
+  text-align: left;
+  color: #707070;
+}
+.home:hover {
+  color: #e4532a; 
+  transition: 0.4s;
+}
+.sekul {
+  font-family: Roboto;
+  font-size: 12px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.2;
+  letter-spacing: 0.9px;
+  text-align: left;
+  color: #e4532a; 
+}
+.sekul:hover {
+  color: #707070;
+  transition: 0.4s;
+}
+.profil {
+  font-family: Roboto;
+  font-size: 12px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.2;
+  letter-spacing: 0.9px;
+  text-align: left;
+  color: #707070;
+}
+.profil:hover {
+  color: #e4532a;
+  transition: 0.4s;
+}
+.galer {
+  font-family: Roboto;
+  font-size: 12px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.2;
+  letter-spacing: 0.9px;
+  text-align: left;
+  color: #707070;
+}
+.galer:hover {
+  color: #e4532a;
+  transition: 0.4s;
+}
+.news {
+  font-family: Roboto;
+  font-size: 12px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.2;
+  letter-spacing: 0.9px;
+  text-align: left;
+  color: #707070;
+}
+.news:hover {
+  color: #e4532a;
+  transition: 0.4s;
+}
+
+#konten {
+  width: 100%;
+  margin-top: 5%;
+}
+.sekulah {
+  text-align: center;
+}
+.desc {
+  width: 80%;
+  margin-left: 10%;
+  margin-top: 3%;
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.42;
+  letter-spacing: 0.5px;
+  text-align: center;
+  color: #a6a6a6;
+}
+.kiri {
+  width: 40%;
+  box-shadow: 1px 5px 12px 0 rgba(0, 0, 0, 0.16);
+  background-color: #ffffff;
+  height: 450px;
+  margin-left: 6%;
+  margin-top: 8%;
+}
+.kanan {
+  width: 40%;
+  box-shadow: 1px 5px 12px 0 rgba(0, 0, 0, 0.16);
+  background-color: #ffffff;
+  height: 450px;
+  float: right;
+  margin-right: 6%;
+  margin-top: -33.4%;
+}
+.kiri img {
+  padding-left: 22%;
+  padding-top: 10%;
+}
+.jdl {
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.13;
+  letter-spacing: 0.6px;
+  text-align: left;
+  color: #434345;
+  margin-left: 7%;
+  margin-top: 10%;
+}
+.desc-jdl {
+  width: 86%;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.59;
+  letter-spacing: 0.4px;
+  text-align: left;
+  color: #838383;
+  margin-left: 7%;
+}
+#konten a {
+  text-decoration: none;
+}
+.more {
+  font-family: Roboto;
+  font-size: 17px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.53;
+  letter-spacing: 0.1px;
+  text-align: left;
+  color: #e4532a;
+  margin-left: 7%;
+}
+.more:hover {
+  color: #E36E2A;
+  transition: 0.4s;
+}
+.kanan img {
+  padding-left: 17%;
+  padding-top: 10%;
+}
+
+#footer {
+  width: 100%;
+  margin-top: 10%;
+}
+.batas {
+  width: 90%;
+  border-radius: 100%;
+}
+.visi {
+  width: 30%;
+  margin-top: 8%;
+  margin-left: 6%;
+}
+.vismis {
+  font-family: Roboto;
+  font-size: 22px;
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 0.93;
+  letter-spacing: -0.1px;
+  text-align: left;
+  color: #494c50;
+  margin-top: -12%;
+}
+.descv {
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: normal;
+  font-style: italic;
+  font-stretch: normal;
+  line-height: 1.35;
+  letter-spacing: 0.7px;
+  text-align: left;
+  color: #b4b5b7;
+}
+.kon {
+  width: 15%;
+  margin-left: 42%;
+  margin-top: -11.8%;
+}
+.con {
+  font-family: Roboto;
+  font-size: 22px;
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 0.93;
+  letter-spacing: -0.1px;
+  text-align: left;
+  color: #494c50;
+}
+.isi {
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: normal;
+  font-style: italic;
+  font-stretch: normal;
+  line-height: 1.35;
+  letter-spacing: 0.7px;
+  text-align: left;
+  color: #b4b5b7;
+}
+.lok {
+  width: 15%;
+  margin-left: 62%;
+  margin-top: -8.3%;
+}
+.loc {
+ font-family: Roboto;
+ font-size: 22px;
+ font-weight: 500;
+ font-style: normal;
+ font-stretch: normal;
+ line-height: 0.93;
+ letter-spacing: -0.1px;
+ text-align: left;
+ color: #494c50;
+}
+.sosmed {
+  width: 15%;
+  float: right;
+  margin-right: 5%;
+  margin-top: -9.5%;
+}
+.sos {
+ font-family: Roboto;
+ font-size: 22px;
+ font-weight: 500;
+ font-style: normal;
+ font-stretch: normal;
+ line-height: 0.93;
+ letter-spacing: -0.1px;
+ text-align: left;
+ color: #494c50; 
+}
+.sosmed img {
+  margin-top: -6%;
+}
+.fb {
+  margin-left: -10%;
+}
+.imel {
+    font-family: Roboto;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.17;
+  letter-spacing: 0.6px;
+  text-align: left;
+  color: #64b1b9;
+  margin-top: 0;
+}
+.logo-bawah {
+  margin-top: 8%;
+  margin-left: 6%;
+}
+.logo-bawah img {
+    width: 55px;
+  height: 55px;
+  margin-top: 1%;
+}
+.logo-bawah span {
+  margin-top: 1.5%;
+  margin-left: 2%;
+    font-family: Roboto;
+  font-size: 16px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.81;
+  letter-spacing: 0.4px;
+  text-align: left;
+  color: #777c80;
+  position: absolute;
+}
+.logo-bawah p {
+  position: absolute;
+  margin-top: -2%;
+  margin-left: 6.5%;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.81;
+  letter-spacing: 0.4px;
+  text-align: left;
+  color: #9e9fa3;
+}

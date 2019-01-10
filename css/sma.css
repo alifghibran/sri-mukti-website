@@ -96,3 +96,50 @@ body {
   color: #707070;
   transition: 0.4s;
 }
+
+/*konten*/
+
+
+#konten {
+  width: 100%;
+}
+.kiri {
+  width: 39%;
+  margin-left: 6%;
+}
+.ttg {
+  font-family: Roboto;
+  font-size: 44px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.6;
+  letter-spacing: 3.2px;
+  text-align: left;
+  color: #494949;
+}
+.sub {
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.75;
+  letter-spacing: 1.3px;
+  text-align: left;
+  color: #707070;
+}
+.imel {
+  margin-top: 3%;
+  padding-right: 30px;
+}
+.kanan {
+  float: right;
+  margin-right: 6%;
+  margin-top: -35%;
+}
+.kanan img {
+  border-radius: 5px;
+}
+
+/*akhir*/

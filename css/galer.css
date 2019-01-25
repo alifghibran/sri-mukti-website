@@ -159,6 +159,7 @@ body {
   width: 250px;
   height: 350px;
   margin-left: 50%;
+  border-radius: 10px;
 }
 .foto:hover {
   opacity: 0.8;

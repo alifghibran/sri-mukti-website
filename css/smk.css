@@ -129,6 +129,17 @@ body {
   text-align: left;
   color: #707070;
 }
+li {
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.75;
+  letter-spacing: 1.3px;
+  text-align: left;
+  color: #707070;
+}
 .imel {
   margin-top: 3%;
   padding-right: 30px;
@@ -222,6 +233,7 @@ body {
   width: 250px;
   height: 350px;
   margin-left: 50%;
+  border-radius: 15px;
 }
 .foto:hover {
   opacity: 0.8;
